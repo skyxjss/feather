@@ -7,3 +7,6 @@ This project was mainly created to learn Minecraft modding using java. The modul
 * Combat Modules
 * Visuals Modules
 * Legit Modules
+
+## Download
+You have to join the discord server: https://discord.gg/RnHKDqgP6r
